@@ -1,0 +1,14 @@
+canvas{
+  height: 200px;
+  border: 1pt solid lightgrey;
+}
+
+input{
+  font-size: 14pt;
+}
+
+body
+{
+  font-family: arial;
+  margin: 30px;
+}

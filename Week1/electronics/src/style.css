@@ -1,0 +1,41 @@
+body{
+  background-color:  burlywood;
+}
+h1{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  color: green;
+  background-color: brown;
+  text-align: center;
+}
+ol
+{
+  color : blue;
+}
+
+#sky_image{
+  background-color: red;
+  width:300px;
+}
+
+#tableheader
+{
+  background-color: RoyalBlue;
+  color: GhostWhite;
+}
+
+.tablediv
+{
+  font-family: Verdana, Geneva, sans-serif;
+  color: violet;
+}
+
+.para{
+  color: green;
+   text-align: center;
+}
+
+ol {
+  color : green ;
+}
